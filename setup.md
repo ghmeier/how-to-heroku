@@ -96,4 +96,4 @@ v4.3.0
 
 1. `sudo npm install npm -g`
 
-*We're done! Let's start makimg some files!*
+*We're done! [Let's start makimg some files](/making-the-app.md)!*
