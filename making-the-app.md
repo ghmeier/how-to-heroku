@@ -105,4 +105,4 @@ Head to `http://<github-username>-hello-world.herokuapp.com/` to check it out!!
 ####What next?
 We all we have to do to deploy is commit our changes and push to the heroku remote! Heroku also has solid documentation if you want something more complex. 
 
-*How can we extend our server now?*
+*[How can we extend our server now?](/extending-your-application.md)*
