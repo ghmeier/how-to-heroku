@@ -69,7 +69,6 @@ Make a new file in `hello-world/` called `package.json` and fill it with:
     "node": ">= v4.3.0"
   },
   "dependencies": {
-    //Add dependencies.
   },
   "license": "MIT",
   "scripts": {
