@@ -94,6 +94,6 @@ v4.3.0
 
 #### Almost there, install node package manager (npm)
 
-1. `sudo npm install npm -g`
+1. `npm install npm -g`
 
 *We're done! [Let's start makimg some files](/making-the-app.md)!*
